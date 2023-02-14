@@ -68,7 +68,7 @@ TEMA RESPONSIVE PARA WORDPRESS
 <font id="ifroal">
 <font id="is29it">
 <font id="irnwdd">
-DISE�O 100% RESPONSIVO, Y MODERNO</font>
+DISEƒÂ‘O 100% RESPONSIVO, Y MODERNO</font>
 </font>
 </font>
 </font>
@@ -78,7 +78,7 @@ DISE�O 100% RESPONSIVO, Y MODERNO</font>
 " title="Read more" id="ipnbyj">
 <div id="ilkujs">
 <span id="tgtext-1">
-<?php if( get_theme_mod( "tgtext-1") != "" ) {echo get_theme_mod( "tgtext-1");} else {echo "Leer más";} ?>
+<?php if( get_theme_mod( "tgtext-1") != "" ) {echo get_theme_mod( "tgtext-1");} else {echo "Leer mÃ¡s";} ?>
 </span>
 </div>
 </a>
@@ -328,7 +328,7 @@ DISE�O 100% RESPONSIVO, Y MODERNO</font>
 <font id="idzukl">
 <font id="ibk6mi">
 <font id="i2fidp">
-Descarga nuestro ebook gratis aqu�­</font>
+Descarga nuestro ebook gratis aquƒÂ­</font>
 </font>
 </font>
 </font>
@@ -361,7 +361,7 @@ libro electronico</font>
 <div class="aut-badge-name">
 <font id="i6cbtj">
 <font id="irsigf">
-Callej�³n M�³nica</font>
+CallejƒÂ³n MƒÂ³nica</font>
 </font>
 </div>
 <div id="iq6ag6">
@@ -407,7 +407,7 @@ Callej�³n M�³nica</font>
 </span>
 <div class="aut-badge-name">
 <span id="tgtext-26">
-<?php if( get_theme_mod( "tgtext-26") != "" ) {echo get_theme_mod( "tgtext-26");} else {echo "Tobias Fünke";} ?>
+<?php if( get_theme_mod( "tgtext-26") != "" ) {echo get_theme_mod( "tgtext-26");} else {echo "Tobias FÃ¼nke";} ?>
 </span>
 </div>
 <div id="ifvqek">
@@ -546,7 +546,7 @@ Buster Bluth</font>
 </span>
 <div class="aut-badge-name">
 <span id="tgtext-31">
-<?php if( get_theme_mod( "tgtext-31") != "" ) {echo get_theme_mod( "tgtext-31");} else {echo "Maebe Fünke";} ?>
+<?php if( get_theme_mod( "tgtext-31") != "" ) {echo get_theme_mod( "tgtext-31");} else {echo "Maebe FÃ¼nke";} ?>
 </span>
 </div>
 <div id="imnob8">
@@ -634,6 +634,19 @@ Barry Zuckerkorn</font>
 </div>
 </div>
 </div>
+</section>
+			
+<section>
+  <div>
+    <div>
+    <font id="irnwdd">
+        Nuestra Ubicación</font>
+    </div>
+    <div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.492389610128!2d-58.520663!3d-34.6169953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb7d8044bbe21%3A0xfc2651abdaf8939f!2sTinogasta%205286%2C%20C1417%20CABA!5e0!3m2!1ses-419!2sar!4v1676348038882!5m2!1ses-419!2sar" width="900" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </div>
+  
 </section>
 
 
